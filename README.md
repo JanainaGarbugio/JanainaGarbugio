@@ -1,28 +1,25 @@
-<h2> Oi! Eu sou a Janaina, mas pode me chamar de Jana | pronomes: ela/she/ella 😜
-<h5>Estou sempre aberta a conversas, dicas, feedbacks, etc; então fique à vontade para entrar em contato comigo por esse link 👇🏾:</h3>
-<h5> <a href="https://linktr.ee/JGMR" target="_blank"><i>Entre em contato comigo</i></a></h2>
+<h1> Oiii! Eu sou a Janaina Garbugio, mas pode me chamar de Jana.
 
-  <h1> Quem sou eu 🙋🏾‍♀️
-  
-<h4> Estudante Dev. Full Stack Java Jr. na Generation Brasil, Social Media freelancer e pessoa curiosa.
-
-<h4>Futura comunicóloga e desenvolvedora, estudante de Publicidade e Propaganda, quase desenvolvedora jr. formada e atuante no setor de eventos.
-
-<h4>Cofundadora do projeto Jaca, que ajuda empresas a se comunicarem com seus públicos. 
-  
- <h1>Olhe como estou desenvolvendo minhas habilidades ✔</h3>
 </p>
   
+<h4> Estudante Dev. Full Stack Java Jr. na Generation Brasil, Social Media freelancer e pessoa curiosa.
+<p> Futura comunicóloga e desenvolvedora, estudante de Publicidade e Propaganda, quase desenvolvedora jr. formada e atuante no setor de eventos. Cofundadora do projeto Jaca, que ajuda empresas a se comunicarem com seus públicos. 
+<h6> pronomes: ela/she/ella 😜 <a href="https://linktr.ee/JGMR" target="_blank"><i>Entre em contato comigo</i></a></h2>
+  
+<p>
+<p>
+ <h1> Veja como estou desenvolvendo minhas habilidades ✔</h3>
+</p>
 
  <div>
   <a href="https://github.com/JanainaGarbugio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JanainaGarbugio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanainaGarbugio&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JanainaGarbugio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanainaGarbugio&layout=compact&langs_count=7&theme=dracula"/>
 </div>
    
    ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
-  <h3> 🤎 Back-End</h3>
+  <h3> 🍀 Back-End</h3>
 <div style="display: inline_block; padding-right:100">
 <a href="https://www.java.com" target="_blank" title="Java"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="70" height="70"/></a> 
 <a href="https://www.mysql.com/" target="_blank" title="MySQL"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="70" height="70"/></a>
@@ -34,7 +31,7 @@
 
   
 <hr>
-<h3> 🤎 Front-End</h3>
+<h3> 🍀 Front-End</h3>
 <div> 
     <a href="https://www.w3schools.com/css/" target="_blank" title="CSS 3"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/></a>
 <a href="https://www.w3.org/html/" target="_blank" title="HTML 5"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/></a> 
@@ -45,15 +42,21 @@
 </div>
 
 <hr>
-<h3> 🤎 Habilidades Extras </h3>
+<h3> 🍀 Habilidades Extras </h3>
 
 <div style="display: inline_block"><br>
 <a href="https://www.canva.com/" target="_blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2020/11/canva-logo-1.png" title="Canva" width="70" height="70"></a>
-<a href="https://edu.google.com/intl/en/products/classroom/" target="_blank"><img align="center" src="https://img.icons8.com/color/96/000000/google-classroom.png" title="Google Classroom" width="70" height="70"></a>
 <a href="https://www.google.com/intl/pt-br/drive/about.html" target="_blank"><img align="center" src="https://img.icons8.com/color/96/000000/google-drive--v1.png" title="Google Drive" width="70" height="70"></a>
 <a href="https://trello.com/" target="_blank"><img align="center" src="https://img.icons8.com/color/144/000000/trello.png" title="Trello" width="70" height="70"></a>
+<a href="https://github.com/SubtitleEdit" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Subtitle_Edit_logo.png/120px-Subtitle_Edit_logo.png" title="Subtitle Edit" width="70" height="70"></a>
 </div>
    
    ##
+  
+<h3>Estou sempre aberta a conversas, dicas, feedbacks, etc; então fique à vontade para entrar em contato:</h3>
+   
+   <p align="left">
+<a href="https://www.linkedin.com/in/janainagarbugio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Janaina Garbugio" height="60" width="70" /></a>
+</p>
 
-<h1 align="left">Obrigada por me visitar !</h1>
+<h1 align="left">Obrigada pela visita! 🍀</h1>

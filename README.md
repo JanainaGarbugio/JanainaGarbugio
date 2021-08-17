@@ -48,7 +48,6 @@
 <a href="https://www.canva.com/" target="_blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2020/11/canva-logo-1.png" title="Canva" width="50" height="60"></a>
 <a href="https://www.google.com/intl/pt-br/drive/about.html" target="_blank"><img align="center" src="https://img.icons8.com/color/96/000000/google-drive--v1.png" title="Google Drive" width="50" height="60"></a>
 <a href="https://trello.com/" target="_blank"><img align="center" src="https://img.icons8.com/color/144/000000/trello.png" title="Trello" width="60" height="60"></a>
-<a href="https://github.com/SubtitleEdit" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Subtitle_Edit_logo.png/120px-Subtitle_Edit_logo.png" title="Subtitle Edit" width="60" height="60"></a>
 </div>
    
    ##
